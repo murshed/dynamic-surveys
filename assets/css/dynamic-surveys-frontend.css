@@ -1,0 +1,121 @@
+.dynamic-surveys {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.dynamic-surveys-option {
+    margin-bottom: 10px;
+}
+
+.dynamic-surveys-submit {
+    margin-top: 15px;
+    padding: 8px 16px;
+    background-color: #0073aa;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.dynamic-surveys-results {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.dynamic-surveys-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.dynamic-surveys-container h3 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.dynamic-surveys-option {
+    margin-bottom: 15px;
+}
+
+.dynamic-surveys-option label {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.dynamic-surveys-submit-vote {
+    background: #0073aa;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.dynamic-surveys-submit-vote:hover {
+    background: #005177;
+}
+
+.dynamic-surveys-submit-vote:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+}
+
+.dynamic-surveys-results {
+    text-align: center;
+}
+
+.dynamic-surveys-results canvas {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.dynamic-surveys-message {
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.dynamic-surveys-login-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #0073aa;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+}
+
+.dynamic-surveys-login-link:hover {
+    background: #005177;
+    color: #fff;
+    text-decoration: none;
+}
+
+.dynamic-surveys-results-wrapper {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.dynamic-surveys-vote-message {
+    text-align: center;
+    margin-top: 20px;
+    color: #666;
+}
+
+.dynamic-surveys-results h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+} 
